@@ -4,7 +4,7 @@ A tool for searching available l337 domain names.
 
 ## How To
 
-To run the script, you must provide a text file containing a list of words. In the example below, I'm providing a file of four letter words. 
+To run the script, you must provide a text file containing a list of words. In the example below, I'm providing a file of four letter words. I had good luck finding word lists [here](http://clubefl.gr/games/wordox/4.html).
 
 ## Example
 
